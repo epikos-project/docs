@@ -7,9 +7,9 @@ hero:
   text: "Next Gen Eos Civilization Simulation"
   tagline: Using LLM Agents
   actions:
-    - theme: Docs
-      text: Markdown Examples
-      link: /introduction/what-is-hyperion
+    - theme: brand
+      text: Docs
+      link: /introduction/what-is-epikos
 
 features:
   - title: Feature A

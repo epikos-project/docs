@@ -11,11 +11,11 @@ export default defineConfig(
         // https://vitepress.dev/reference/default-theme-config
         nav: [
           { text: "Home", link: "/" },
-          { text: "Docs", link: "/introduction/what-is-hyperion" },
+          { text: "Docs", link: "/introduction/what-is-epikos" },
         ],
 
         socialLinks: [
-          { icon: "github", link: "https://github.com/vuejs/vitepress" },
+          { icon: "github", link: "https://github.com/epikos-project" },
         ],
       },
       base: "/docs",
@@ -24,6 +24,7 @@ export default defineConfig(
       documentRootPath: "/docs",
       useTitleFromFrontmatter: true,
       useTitleFromFileHeading: true,
+      sortMenusByFrontmatterOrder: true,
       hyphenToSpace: true,
       capitalizeFirst: true,
     }
