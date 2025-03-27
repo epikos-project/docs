@@ -3,13 +3,13 @@
 layout: home
 
 hero:
-  name: "Epikos Docs"
+  name: "EpOikos Docs"
   text: "Next Gen Eos Civilization Simulation"
   tagline: Using LLM Agents
   actions:
     - theme: brand
       text: Docs
-      link: /introduction/what-is-epikos
+      link: /introduction/what-is-epoikos
 
 features:
   - title: Feature A

@@ -5,17 +5,17 @@ import { withSidebar } from "vitepress-sidebar";
 export default defineConfig(
   withSidebar(
     {
-      title: "Epikos Docs",
-      description: "Next Gen Eos Civilization Simulation",
+      title: "EpOikoS Docs",
+      description: "Next Gen EOS Civilization Simulation",
       themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
           { text: "Home", link: "/" },
-          { text: "Docs", link: "/introduction/what-is-epikos" },
+          { text: "Docs", link: "/introduction/what-is-epoikos" },
         ],
 
         socialLinks: [
-          { icon: "github", link: "https://github.com/epikos-project" },
+          { icon: "github", link: "https://github.com/epoikos-project" },
         ],
       },
       base: "/docs",
