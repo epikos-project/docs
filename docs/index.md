@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "EpOikos Docs"
+  name: "EpOikoS Docs"
   text: "Next Gen Eos Civilization Simulation"
   tagline: Using LLM Agents
   actions:
